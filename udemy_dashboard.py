@@ -12,7 +12,7 @@ st.set_page_config(layout='centered')
 st.title("Udemy Courses EDA")
 st.text("This is our first challenging dashboard!\nYAY! *_*")
 
-st.write("Author: @MustafaOthman")
+st.write("Credits: @MustafaOthman")
 
 # loading data
 df = pd.read_csv('udemy_courses.csv')
